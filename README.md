@@ -9,7 +9,7 @@ T.C. İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlü�
 ## Kurulum
 ```bash
 Install-Package Niwi
-# ve ya
+# veya
 dotnet add package Niwi
 ```
 ## Kullanım
